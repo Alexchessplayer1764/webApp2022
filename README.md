@@ -13,8 +13,8 @@ ___
 - Vue.js. 
  ___
 ### Для запуска проекта необходимо выполнить команды: 
-1) php artisan serve
-2) vite
+1) php artisan serve - для запуска локального веб-сервера
+2) vite - для автоматической сборки приложения после каждого изменения файла проекта. 
 
 [Cсылка на видео демонстрации работы](https://drive.google.com/file/d/1XROGXxceTHG_vZXKVDEPPEOFLUdH4UEO/view?usp=share_link)
 
